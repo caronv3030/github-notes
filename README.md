@@ -13,7 +13,12 @@
 * Web Service: you can basically do git things, on a server, on a website 
 * A website where you can do projects that have a version control on them 
 * Github kind of funs the Git software behind the scenes 
-* You would need to sign in, having a account to having to be able to do anything 
+* You would need to sign in, having a account to having to be able to do anything
+* clone= make a copy of entire repo from remote to local
+* commit= snapshot of changes
+* push= send commits from local to remote
+* pull= receive commits from remote to local
+
 
 
 ### Repo
